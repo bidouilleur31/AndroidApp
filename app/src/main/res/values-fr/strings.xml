@@ -59,7 +59,7 @@
     <string name="saturday_initial">sa</string>
     <string name="sunday_initial">di</string>
 
-    <string name="system_locale">Monnaie Système</string>
+    <string name="system_locale">Monnaie paramétrée sur votre téléphone</string>
     <string name="dollars">Dollars</string>
     <string name="pounds">Livres</string>
     <string name="euros">Euros</string>
@@ -72,11 +72,11 @@
 
     <string name="settings_title_app_settings">PARAMÈTRES APP</string>
     <string name="settings_title_scanqrcode">Numériser le code QR</string>
-    <string name="settings_summary_scanqrcode">Permet de remplir automatiquement les champs de connectivité en utilisant le code QR sur la page du compte emoncms</string>
+    <string name="settings_summary_scanqrcode">Permet de remplir automatiquement les champs de connection en utilisant le code QR sur la page du compte emoncms</string>
     <string name="settings_title_emoncms_url">emoncms URL</string>
     <string name="settings_summary_emoncms_url">l\'url emoncms complet sans http:// par exemple "www.monsupersite.com/emoncms"</string>
     <string name="settings_title_emoncms_apikey">emoncms CLÉ API</string>
-    <string name="settings_summary_emoncms_apikey">Lire la clé API de la page emoncms Mon compte</string>
+    <string name="settings_summary_emoncms_apikey">Lire la clé API de la page emoncms - Mon compte</string>
     <string name="settings_title_emoncms_usessl">Utiliser SSL</string>
     <string name="settings_summary_emoncms_usessl"> Se connecter en utilisant https, pris en charge par emoncms.org, MAIS PAS POUR emonPi</string>
     <string name="settings_title_keep_screen_on">Gardez l\'écran allumé</string>
@@ -87,7 +87,7 @@
     <string name="settings_title_myelectric_feeds">Accueil</string>
     <string name="settings_title_myelectric_currency">Devise</string>
     <string name="settings_title_myelectric_power_feed">Puissance alimentation (W)</string>
-    <string name="settings_title_myelectric_kwh_feed">"Alimentation graphique à barres (kWh)</string>
+    <string name="settings_title_myelectric_kwh_feed">"Alimentation graphique (kWh)</string>
     <string name="settings_title_myelectric_escale">Wh au kWh Feed FR</string>
     <string name="settings_title_myelectric_unit_cost">Coût</string>
     <string name="settings_title_myelectric_cost_symbol">Unité de coût</string>
